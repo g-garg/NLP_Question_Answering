@@ -1,0 +1,7 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+#pyngrok
+#nltk
+symspellpy

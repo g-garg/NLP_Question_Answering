@@ -1,0 +1,9 @@
+cgpa 100000
+rajni 100000
+dharampal 100000
+garg 100000
+ginni 100000
+ekta 100000
+. 100000
+? 100000
+arti 100000
